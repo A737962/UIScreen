@@ -4,10 +4,6 @@ import accountSummary from './DBAccountSummaryData.json'
 function DBAccountHistory(props) {
     return (
             <div className="col col-sm-12 col-md-6">
-              {
-                console.log(accountSummary)
-              }
-              
                 <ul>
                   <li>
                     <p>
