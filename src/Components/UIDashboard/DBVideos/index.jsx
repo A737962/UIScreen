@@ -35,7 +35,7 @@ function DBVideos(props) {
                 <div className="modal-dialog">
                     <div className="modal-content">
                         <div className="modal-header">
-                        <iframe id="cartoonVideo" class="embed-responsive-item" width="560" height="315" src="//www.youtube.com/embed/YE7VzlLtp-4" allowfullscreen></iframe>
+                        <iframe id="cartoonVideo" className="embed-responsive-item" width="560" height="315" src="//www.youtube.com/embed/YE7VzlLtp-4" allowfullscreen></iframe>
                             <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
