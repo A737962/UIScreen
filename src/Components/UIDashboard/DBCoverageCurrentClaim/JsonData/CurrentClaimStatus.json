@@ -1,0 +1,20 @@
+[
+  {
+    "criticalIllness": 1234500,
+    "claimStatus": "Initial Premium Due",
+    "claimNumber": "PENDING",
+    "recievedDate": "1/22/2020"
+  },
+  {
+    "criticalIllness": 1234500,
+    "claimStatus": "Initial Premium Due",
+    "claimNumber": "PENDING",
+    "recievedDate": "1/22/2020"
+  },
+  {
+    "criticalIllness": 1234500,
+    "claimStatus": "Initial Premium Due",
+    "claimNumber": "PENDING",
+    "recievedDate": "1/22/2020"
+  }
+]

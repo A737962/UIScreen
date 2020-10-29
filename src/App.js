@@ -13,6 +13,8 @@ import DocumentCenter from "./Components/UIDocumentCenter";
 import ClaimsCenter from "./Components/UIClaimsCenter";
 import HelpCenter from "./Components/UIHelpCenter";
 import UIDashboard from "./Components/UIDashboard";
+import BeneficiaryManagement from "./Components/UIBeneficiaryManagement/Common/Common";
+import BeneficiaryManagementReactTable from "./Components/UIBeneficiaryManagement/Common/CommonReactAccordian";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App(props) {
@@ -35,7 +37,8 @@ function App(props) {
           <Route exact path="/documentCenter" component={DocumentCenter} />
           <Route exact path="/claimsCenter" component={ClaimsCenter} />
           <Route exact path="/helpCenter" component={HelpCenter} />
-          <Route exact path="/" component={UIDashboard} />
+          {/* <Route exact path="/" component={UIDashboard} /> */}
+          <Route exact path="/" component={BeneficiaryManagementReactTable} />
         </Switch>
         <UIFooter />
       </Router>

@@ -1,0 +1,5 @@
+{
+  "groupType": ["Individual", "Organization"],
+  "relationship": ["Spouse", "Child", "Mother", "Father", "Brother", "Sister"],
+  "type": ["Primary", "Secondary", "Tertiary"]
+}

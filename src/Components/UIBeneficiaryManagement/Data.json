@@ -1,0 +1,50 @@
+[
+  {
+    "beneficiary": "Jill Smith",
+    "relationship": "child",
+    "type": "primary",
+    "percentage": "25",
+    "signatureDate": "10/10/2020",
+    "middleName": "Lee",
+    "dateOfBirth": "11/11/1998",
+    "ssn": "****4564",
+    "streetAddress": "123 Main Street",
+    "city": "Any Town",
+    "state": "Pennsylvania",
+    "zip": 123456,
+    "phoneNumber": "123-456-7890",
+    "emailAddress": "jlsmith@email.com"
+  },
+  {
+    "beneficiary": "Jammy Smith",
+    "relationship": "child",
+    "type": "primary",
+    "percentage": "25",
+    "signatureDate": "10/10/2020",
+    "middleName": "Lee",
+    "dateOfBirth": "11/11/1998",
+    "ssn": "****4564",
+    "streetAddress": "123 Main Street",
+    "city": "Any Town",
+    "state": "Pennsylvania",
+    "zip": 123456,
+    "phoneNumber": "123-456-7890",
+    "emailAddress": "jlsmith@email.com"
+  },
+  {
+    "beneficiary": "Samson Smith",
+    "relationship": "child",
+    "type": "primary",
+    "percentage": "25",
+    "signatureDate": "10/10/2020",
+    "middleName": "Lee",
+    "dateOfBirth": "11/11/1998",
+    "ssn": "****4564",
+    "streetAddress": "123 Main Street",
+    "city": "Any Town",
+    "state": "Pennsylvania",
+    "zip": 123456,
+    "phoneNumber": "123-456-7890",
+    "emailAddress": "jlsmith@email.com"
+  }
+]
